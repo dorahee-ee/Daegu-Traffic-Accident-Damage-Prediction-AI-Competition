@@ -37,7 +37,7 @@ private에서 상위권의 코드들을 보면 EDA를 통해서 데이터를 분
 
 ### Modeling
 - AutoML (mljar - supervised)
-- ['Random Forest', 'LightGBM', 'Xgboost', 'CatBoost']을 앙상블하여 진행
+- `['Random Forest', 'LightGBM', 'Xgboost', 'CatBoost']`을 앙상블하여 진행
 - `Random Seed = 0`으로 고정
 
 ### Result
